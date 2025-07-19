@@ -29,6 +29,14 @@ It is also a **real use case prototype** based on current business needs at a na
 🟠 Waiting for Microsoft 365 sandbox approval  
 ✅ GitHub & Developer accounts linked
 
+## 🎓 Microsoft Learn (No-code Training)
+
+As part of my no-code journey, I'm following Microsoft Learn modules focused on the Power Platform:
+
+- 🔗 [Create a canvas app in Power Apps](https://learn.microsoft.com/en-us/training/modules/get-started-power-apps/)
+- 🔗 [Create and use data in Microsoft Dataverse](https://learn.microsoft.com/en-us/training/modules/data-model-cds/)
+- 🔗 [Build approval flows with Power Automate](https://learn.microsoft.com/en-us/training/modules/approvals-power-automate/)
+
 ---
 
 _This repository is maintained as part of my transition toward no-code development, focusing on Microsoft technologies._
