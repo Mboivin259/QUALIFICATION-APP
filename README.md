@@ -1,4 +1,4 @@
-# Qualification App — No-code Power Platform Prototype
+8# Qualification App — No-code Power Platform Prototype
 
 This project is a **no-code/low-code prototype** built using the **Microsoft Power Platform**, designed to manage professional qualification requests for medical practitioners in France.
 
@@ -33,8 +33,7 @@ It is also a **real use case prototype** based on current business needs at a na
 
 As part of my no-code journey, I'm following Microsoft Learn modules focused on the Power Platform:
 
-- 🔗 [Create a canvas app in Power apps](https://learn.microsoft.com/fr-fr/training/paths/create-powerapps/)
-
+- 🔗 [Create a canvas app in Power apps](https://learn.microsoft.com/api/achievements/share/en-us/MagaliBOIVIN-6869/E5XVXQXP?sharingId=C465FC8F59F186D2)
 ---
 
 _This repository is maintained as part of my transition toward no-code development, focusing on Microsoft technologies._
