@@ -33,7 +33,7 @@ It is also a **real use case prototype** based on current business needs at a na
 
 As part of my no-code journey, I'm following Microsoft Learn modules focused on the Power Platform:
 
-- 🔗 [Create a canvas app in Power apps](https://learn.microsoft.com/en-us/training/modules/get-started-with-powerapps/)
+- 🔗 [Create a canvas app in Power apps](https://learn.microsoft.com/fr-fr/training/paths/create-powerapps/)
 
 ---
 
