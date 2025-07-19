@@ -10,6 +10,7 @@ Ce journal retrace les étapes de conception de mon application no-code pour la 
 - Rédaction du README de présentation du projet
 - Lien établi avec le compte Microsoft 365 Developer Program
 - Ahout du journal de bord
+- [Exploit obtenu sur learn Microsoft **Power Platform**(https://learn.microsoft.com/api/achievements/share/fr-fr/MagaliBOIVIN-6869/8ZSU56BW?sharingId=C465FC8F59F186D2)
 - Objectif : Obtenir une sandbox gratuite pour débuter la conception Power Apps
 
 ---
