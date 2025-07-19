@@ -31,7 +31,7 @@ Ce journal retrace les étapes de conception de mon application no-code pour la 
 
 ## 📝 Objectifs court terme
 
-- 📌 Valider l’accès à la sandbox  **no-code/low-code prototype** built using the **Microsoft Power Platform** and access to **sandbox Microsoft 365 E5 Program Developper Platform**
+- 📌 Valider l’accès à la sandbox  **no-code/low-code prototype** built using the **Microsoft Power Platform** and access to **Microsoft 365 Developer Program sandbox**
 - 📌 Créer un prototype fonctionnel avec données factices
 - 📌 Structurer l’app pour gérer 3000 dossiers/an
 
