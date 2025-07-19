@@ -1,25 +1,38 @@
-# QUALIFICATION-APP
-No-code business application prototype for managing qualification requests (Power Platform)
+# Qualification App — No-code Power Platform Prototype
 
-# Qualification App (Power Platform Prototype)
+This project is a **no-code/low-code prototype** built using the **Microsoft Power Platform**, designed to manage professional qualification requests for medical practitioners in France.
 
-This repository is part of a learning and prototyping journey using the Microsoft Power Platform (Power Apps, SharePoint, Power Automate) in a no-code/low-code approach.
+## 🎯 Goal
 
-## 🧩 Objective
+Build a **business application** that allows:
+- Tracking and processing qualification requests
+- Managing commission schedules and meeting agendas
+- Automating document generation and notifications
+- Archiving over 3,000 cases/year using SharePoint and Power Automate
 
-Design a business application for managing and tracking professional qualification requests for medical practitioners, based on official procedures and commission reviews.
+## 🧱 Stack Used
 
-## 🛠️ Stack
+- [x] Microsoft Power Apps (UI)
+- [x] SharePoint (data backend)
+- [x] Power Automate (workflow)
+- [ ] Power BI (future reporting)
+- [x] GitHub (project documentation)
 
-- Microsoft Power Apps
-- SharePoint Lists (data layer)
-- Power Automate (workflow)
-- Power BI (future reporting)
-- GitHub (project documentation)
+## 🧩 Context
 
-## 💡 Context
+This project is developed as part of a **professional learning journey** focused on Microsoft 365 tools for public sector workflows.  
+It is also a **real use case prototype** based on current business needs at a national health organization (France).
 
-This project is developed as a proof of concept to explore the potential of Microsoft 365 tools in building a real-world administrative workflow, as part of a professional learning initiative.
+## 🚀 Status
+
+🟠 Initial documentation in progress  
+🟠 Waiting for Microsoft 365 sandbox approval  
+✅ GitHub & Developer accounts linked
+
+---
+
+_This repository is maintained as part of my transition toward no-code development, focusing on Microsoft technologies._
+
 
 ## ✅ Status
 
