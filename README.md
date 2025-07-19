@@ -9,13 +9,13 @@ Build a **business application** that allows:
 - Managing commission schedules and meeting agendas
 - Automating document generation and notifications
 - Archiving over 3,000 cases/year using SharePoint and Power Automate
-
+  
 ## 🧱 Stack Used
 
-- [x] Microsoft Power Apps (UI)
-- [x] SharePoint (data backend)
-- [x] Power Automate (workflow)
-- [ ] Power BI (future reporting)
+- [x] [Microsoft Power Apps](https://powerapps.microsoft.com) (UI)  
+- [x] [SharePoint](https://sharepoint.com) (data backend)  
+- [x] [Power Automate](https://flow.microsoft.com) (workflow)  
+- [ ] [Power BI](https://powerbi.microsoft.com) (future reporting)  
 - [x] GitHub (project documentation)
 
 ## 🧩 Context
@@ -34,7 +34,4 @@ It is also a **real use case prototype** based on current business needs at a na
 _This repository is maintained as part of my transition toward no-code development, focusing on Microsoft technologies._
 
 
-## ✅ Status
-
-Initial documentation and sandbox setup pending approval.
 
