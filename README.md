@@ -1,4 +1,4 @@
-8# Qualification App — No-code Power Platform Prototype
+## Qualification App — No-code Power Platform Prototype
 
 This project is a **no-code/low-code prototype** built using the **Microsoft Power Platform**, designed to manage professional qualification requests for medical practitioners in France.
 
