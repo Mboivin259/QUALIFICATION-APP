@@ -9,13 +9,13 @@ Ce journal retrace les étapes de conception de mon application no-code pour la 
 - Création du dépôt GitHub `QUALIFICATION-APP`
 - Rédaction du README de présentation du projet
 - Lien établi avec le compte Microsoft 365 Developer Program
+- Ahout du journal de bord
 - Objectif : Obtenir une sandbox gratuite pour débuter la conception Power Apps
 
 ---
 
-## 📅 2025-07-19
+## 📅 2025-07-20
 
-- Ajout du journal de bord
 - Recherches sur l’architecture SharePoint pour structurer les données (tables/lists)
 - Ébauche du cahier des charges fonctionnel
 
