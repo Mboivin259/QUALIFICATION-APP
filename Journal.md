@@ -1,42 +1,57 @@
-# 🛠️ Journal de bord — Qualification App (Power Platform)
+# 📘 Progress Journal — Microsoft 365 Developer Program
 
-Ce journal retrace les étapes de conception de mon application no-code pour la gestion des qualifications médicales, dans le cadre de ma montée en compétence sur Microsoft Power Platform.
-
----
-
-## 📅 2025-07-19
-
-- Création du dépôt GitHub `QUALIFICATION-APP`
-- Rédaction du README de présentation du projet
-- Lien établi avec le compte Microsoft 365 Developer Program
-- Ahout du journal de bord
-- [Exploit obtenu sur learn Microsoft **Power Platform**(https://learn.microsoft.com/api/achievements/share/fr-fr/MagaliBOIVIN-6869/8ZSU56BW?sharingId=C465FC8F59F186D2)
-- Objectif : Obtenir une sandbox gratuite pour débuter la conception Power Apps
+This is a public activity log that documents my visible progress and learning efforts as part of the **Microsoft 365 Developer Program**.  
+🎯 Goal: Qualify for a **Microsoft 365 E3/E5 developer sandbox** by showing relevant no-code/low-code development activity.
 
 ---
 
-## 📅 2025-07-20
+## 🧩 Main Goal
 
-- Recherches sur l’architecture SharePoint pour structurer les données (tables/lists)
-- Ébauche du cahier des charges fonctionnel
-
----
-
-## 📅 2025-07-21 (prévu)
-
-- Création des premières listes SharePoint (procédures, candidats, commissions)
-- Début de maquettes de formulaires Power Apps
-- Exploration des flux Power Automate pour les notifications
+✅ Build a real-world no-code prototype using Microsoft 365 tools  
+✅ Show GitHub and Microsoft Learn activity  
+✅ Maintain a well-documented repository (`Qualification-App`)  
 
 ---
 
-## 📝 Objectifs court terme
+## 📅 Activity Log
 
-- 📌 Valider l’accès à la sandbox  **no-code/low-code prototype** built using the **Microsoft Power Platform** and access to **Microsoft 365 Developer Program sandbox**
-- 📌 Créer un prototype fonctionnel avec données factices
-- 📌 Structurer l’app pour gérer 3000 dossiers/an
+### 📆 July 12, 2025
+- 🟢 Joined the [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program)
 
 ---
 
-_Ce journal prouve ma démarche d’apprentissage active sur les outils Microsoft 365, dans le cadre d’un projet professionnel réel._
+### 📆 July 19, 2025
+- ✅ Linked GitHub account `Mboivin259` to Microsoft 365 Developer Program
+- ✅ Created GitHub repository: `Qualification-App`
+- ✅ Wrote `README.md` with logo, project details, and learning path
+- ✅ Added Power Platform logo to README
+- ✅ Started this `journal.md` activity log
 
+---
+
+## 📘 Microsoft Learn Progress
+
+Completed modules on Power Platform:
+- 🎓 *Get started with Power Apps*
+- 🎓 *Customize a canvas app in Power Apps*
+
+🔗 [My Microsoft Learn profile](https://learn.microsoft.com/en-us/users/magaliboivin-6869/)
+
+---
+
+## 📌 Current Status
+
+- 👤 GitHub linked: **Yes**
+- 📚 Learn modules completed: **Yes**
+- 📄 Project and README visible on GitHub: **Yes**
+- 📘 Activity log maintained: **Yes**
+- 🧪 Developer sandbox: **Not yet granted**
+
+> ℹ️ Message from dashboard: *“You don’t currently qualify for a Microsoft 365 Developer Program sandbox subscription.”*
+
+I am continuing my public activity on GitHub and Learn to increase my chances of becoming eligible for the sandbox.
+
+---
+
+🟡 Still waiting for the automatic sandbox activation.  
+🛠️ Actively working on visible learning and prototyping tasks.
